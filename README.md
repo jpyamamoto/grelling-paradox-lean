@@ -10,7 +10,7 @@ The proof can be found on `Grelling/Proof.lean`.
 
 ## Credits
 
-Thank you to [Oliver Marshall](https://olivermarshall.commons.gc.cuny.edu/) for his presentation of the paradox and its proofs during the [Seminary on Language Theory and Programming Languages Foundations](https://sites.google.com/ciencias.unam.mx/mfraz/seminario) at UNAM, co-hosted by [Dr. Lourdes del Carmen Gonzáles Huesca](https://louglzhuesca.github.io/).
+Thank you to [Oliver Marshall](https://olivermarshall.commons.gc.cuny.edu/) for his presentation of the paradox and its proofs during the [Seminar on Language Theory and Programming Languages Foundations](https://sites.google.com/ciencias.unam.mx/mfraz/seminario) at UNAM, co-hosted by [Dr. Lourdes del Carmen Gonzáles Huesca](https://louglzhuesca.github.io/).
 
 The proof in this repository follows the one shared by Oliver.
 
